@@ -1,6 +1,8 @@
 git add .
 
-git commit -m "Atualizado"
+SLEEP 10
+
+git commit -m "Atualizado2"
 
 git push
 
